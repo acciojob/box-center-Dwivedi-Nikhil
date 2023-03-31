@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.box{
+	width:100vw;
+	height:100vh;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	
+}
+.content{
+	border:2px solid black;
+	background-color:lightblue;
+	width:200px;
+	height:200px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	color:purple;
+	font-size:20px
+}
